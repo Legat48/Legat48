@@ -14,5 +14,6 @@
 <p>4. <a href="https://github.com/Legat48/layout_CW" target="_blank">Большой лендинг по готовому макету Figma</a></p>
 <p>5. <a href="https://github.com/Legat48/layout-diploma" target="_blank">Дипломный проект по верстке (закончен 02.2022)</a></p>
 
+<p>Связь со мной <a href="https://t.me/legat_lp" target="_blank">Связь со мной</a></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
