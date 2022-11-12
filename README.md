@@ -5,6 +5,4 @@
   Мой стак:
 </p>
 
-<span margin-right='20px'>текст</span>
-
-<span margin-right='20px'>текст</span>
+<span margin-right='20px'>![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) </span> <span margin-right='20px'>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)</span>
