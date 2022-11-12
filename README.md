@@ -15,5 +15,5 @@
 <p>5. <a href="https://github.com/Legat48/layout-diploma" target="_blank">Дипломный проект по верстке (закончен 02.2022)</a></p>
 
 <p><a href="https://t.me/legat_lp" target="_blank">Связь со мной</a></p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legat48&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Legat48&layout=compact)](https://github.com/Legat48)
 
