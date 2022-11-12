@@ -1,4 +1,4 @@
-<h1 align="center">Здравствуйте, Я Андрей
+<h1 align="center">Здравствуйте, Я <a href="https://t.me/legat_lp" target="_blank">Андрей</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Фронтенд-разработчик с опытом комерческой разработки более года.</h3>
 <p>
